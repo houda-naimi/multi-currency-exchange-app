@@ -1,0 +1,30 @@
+# Android Studio
+*.iml
+.idea/
+.gradle/
+local.properties
+
+# Build files
+/build/
+/captures/
+/.externalNativeBuild/
+/.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# APK / build output
+*.apk
+*.ap_
+*.dex
+
+# Keystores
+*.jks
+*.keystore
+
+# Google services
+google-services.json

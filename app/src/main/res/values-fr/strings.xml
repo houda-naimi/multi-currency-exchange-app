@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Evaluation_app</string>
+    <string name="welcome_message">Bienvenu à CurrencyConvApp</string>
+    <string name="welcome_paragraph">Bienvenue dans notre application ! Nous sommes ravis de vous avoir parmi nous.
+        Explorez nos fonctionnalités et profitez d\'une expérience fluide.
+        Commencez dès maintenant et tirez le meilleur parti de votre aventure avec nous.</string>
+    <string name="login">Se connecter</string>
+    <string name="register">S\'inscrire</string>
+    <string name="dashboard">Tableau de bord</string>
+    <string name="home">Accueil</string>
+    <string name="side_menu">Menu latéral</string>
+    <string name="header">En-tête</string>
+
+    <string name="welcome_to_app">Bienvenue dans CurrencyConvApp</string>
+    <string name="create_account_prompt">Aidez-nous à créer un compte</string>
+    <string name="female">Femme</string>
+    <string name="male">Homme</string>
+    <string name="terms_and_conditions">J\'ai lu et accepté les termes et conditions</string>
+    <string name="already_have_account">Vous avez déjà un compte ? Connectez-vous</string>
+
+    <string name="welcome_back">Bienvenue de nouveau !</string>
+    <string name="dont_have_account">Vous n\'avez pas de compte ? Inscrivez-vous</string>
+
+    <string name="welcome_to">Bienvenue sur</string>
+    <string name="convertor">Convertisseur</string>
+    <string name="convertor_zitouna">Convertisseur Zitouna</string>
+    <string name="reviews">Avis</string>
+    <string name="logout">Se déconnecter</string>
+
+    <string name="currency">Devise</string>
+    <string name="amount">Montant</string>
+    <string name="from">De</string>
+    <string name="to">À</string>
+    <string name="convert">Convertir</string>
+    <string name="result">Résultat</string>
+
+    <string name="rate_application">Évaluez l\'application</string>
+    <string name="seeking_improvement">Nous cherchons à améliorer l\'application !</string>
+    <string name="help_us_rate">N\'hésitez pas à l\'évaluer pour nous aider</string>
+    <string name="ignore">Ignorer</string>
+    <string name="rate_now">Évaluer maintenant</string>
+
+    <string name="well_done">Bien joué !</string>
+    <string name="review_submitted">Votre avis a été soumis avec succès !</string>
+
+</resources>

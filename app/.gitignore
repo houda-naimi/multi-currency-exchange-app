@@ -1,0 +1,41 @@
+# ===== Android Studio / IntelliJ =====
+*.iml
+.idea/
+*.iws
+*.ipr
+out/
+
+# ===== Build folders =====
+/build/
+/captures/
+/.externalNativeBuild/
+/.cxx/
+
+# ===== Gradle =====
+.gradle/
+build/
+
+# Wrapper (optionnel mais recommandé de garder gradle-wrapper.jar)
+!gradle-wrapper.jar
+
+# ===== Local config =====
+local.properties
+
+# ===== Logs =====
+*.log
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Android specific =====
+*.apk
+*.ap_
+*.dex
+
+# Keystore (très important)
+*.jks
+*.keystore
+
+# Firebase / secrets (si tu en utilises)
+google-services.json
