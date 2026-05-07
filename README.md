@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The goal of this project is to develop an **Android mobile application** that integrates multiple modern features, including:
 
@@ -14,7 +14,7 @@ The goal of this project is to develop an **Android mobile application** that in
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Android Studio  
 - Java  
@@ -23,7 +23,7 @@ The goal of this project is to develop an **Android mobile application** that in
 - WebView  
 ---
 
-## 🧱 Application Structure
+## Application Structure
 
 - **LoginActivity** → User authentication (Login / Register)  
 - **HomeActivity** → Main dashboard after login  
@@ -33,7 +33,7 @@ The goal of this project is to develop an **Android mobile application** that in
 
 ---
 
-## 🧪 Testing Checklist
+## Testing Checklist
 
 - ✔ Login / Logout functionality  
 - ✔ API conversion accuracy  
