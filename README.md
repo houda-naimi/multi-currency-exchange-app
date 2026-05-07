@@ -41,14 +41,3 @@ The goal of this project is to develop an **Android mobile application** that in
 - ✔ Dashboard WebView navigation  
 - ✔ RatingBar feedback system  
 
----
-
-## 🚀 Key Features Summary
-
-- Secure authentication system  
-- Real-time currency exchange rates  
-- Multi-language support (dynamic switching)  
-- Integrated external financial dashboard  
-- User feedback collection system  
-
----
