@@ -1,4 +1,5 @@
 📱 Multi-Currency Exchange App
+
 🎯 Project Objective
 
 The goal of this project is to develop an Android mobile application that integrates multiple modern features including authentication, multilingual support, real-time currency conversion using APIs, user experience evaluation, and external dashboard navigation.
