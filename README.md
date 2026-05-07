@@ -1,29 +1,54 @@
-📱 Multi-Currency Exchange App
+# 📱 Multi-Currency Exchange App
 
-🎯 Project Objective
+---
 
-The goal of this project is to develop an Android mobile application that integrates multiple modern features including authentication, multilingual support, real-time currency conversion using APIs, user experience evaluation, and external dashboard navigation.
+## 🎯 Project Objective
 
-🛠️ Technologies Used
-* Android Studio
-* Java
-* SQLite Database
-* REST API (ExchangeRate-API)
-* WebView
-* Material Design Components
-* 
-🧱 Application Structure
+The goal of this project is to develop an **Android mobile application** that integrates multiple modern features, including:
 
-LoginActivity (Authentication)
-HomeActivity (Main dashboard)
-ApiConversionActivity (Currency converter)
-DashboardActivity (WebView)
-DatabaseHelper (SQLite management)
+- User authentication system  
+- Multilingual support (French / English)  
+- Real-time currency conversion using REST API  
+- User experience evaluation (RatingBar)  
+- External dashboard navigation via WebView  
 
-🧪 Testing Checklist
+---
 
-✔ Login / Logout functionality
-✔ API conversion accuracy
-✔ Language switching (FAB)
-✔ Dashboard WebView navigation
-✔ RatingBar feedback system
+## 🛠️ Technologies Used
+
+- Android Studio  
+- Java  
+- SQLite Database  
+- REST API (ExchangeRate-API)  
+- WebView  
+---
+
+## 🧱 Application Structure
+
+- **LoginActivity** → User authentication (Login / Register)  
+- **HomeActivity** → Main dashboard after login  
+- **ApiConversionActivity** → Currency conversion interface  
+- **DashboardActivity** → External converter via WebView  
+- **DatabaseHelper** → SQLite database management  
+
+---
+
+## 🧪 Testing Checklist
+
+- ✔ Login / Logout functionality  
+- ✔ API conversion accuracy  
+- ✔ Language switching via FAB  
+- ✔ Dashboard WebView navigation  
+- ✔ RatingBar feedback system  
+
+---
+
+## 🚀 Key Features Summary
+
+- Secure authentication system  
+- Real-time currency exchange rates  
+- Multi-language support (dynamic switching)  
+- Integrated external financial dashboard  
+- User feedback collection system  
+
+---
