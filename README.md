@@ -1,4 +1,4 @@
-# 📱 Multi-Currency Exchange App
+# ![Android](https://img.shields.io/badge/Platform-Android-green) Multi-Currency Exchange App
 
 ---
 
