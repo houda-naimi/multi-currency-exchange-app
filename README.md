@@ -1,7 +1,9 @@
-# ![Android](https://img.shields.io/badge/Platform-Android-green) Multi-Currency Exchange App
+# Multi-Currency Exchange App
 
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-orange?logo=openjdk)
+![API](https://img.shields.io/badge/API-ExchangeRate-blue)
 ---
-
 ## Project Objective
 
 The goal of this project is to develop an **Android mobile application** that integrates multiple modern features, including:
