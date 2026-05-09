@@ -1,7 +1,6 @@
 # Multi-Currency Exchange App
 
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/IDE-Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
 ![Java](https://img.shields.io/badge/Language-Java-orange?logo=openjdk)
 ![API](https://img.shields.io/badge/API-ExchangeRate-blue)
 ---
