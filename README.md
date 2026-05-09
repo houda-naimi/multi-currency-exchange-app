@@ -37,9 +37,9 @@ The goal of this project is to develop an **Android mobile application** that in
 
 ## Testing Checklist
 
-- ✔ Login / Logout functionality  
-- ✔ API conversion accuracy  
-- ✔ Language switching via FAB  
-- ✔ Dashboard WebView navigation  
-- ✔ RatingBar feedback system  
+- Login / Logout functionality  
+- API conversion accuracy  
+- Language switching via FAB  
+- Dashboard WebView navigation  
+- RatingBar feedback system  
 
